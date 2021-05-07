@@ -1,0 +1,205 @@
+
+ul 
+{
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1BF5EF;
+  width: 1350px;
+  height: 70px;
+}
+
+li
+{
+  float: right;
+  margin-right: 50px;
+  padding-left: 20px;
+}
+
+li a 
+{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active)
+{
+  background-color: #80E6E3;
+  height: 50px;
+}
+
+.active 
+{
+  background-color: #80E6E3;
+  height: 50px;
+}	
+#img1{
+	position: absolute;top:80px;
+	width:1350px; 
+	height:350px;
+}	
+#mess1{
+	font-size: 50px;
+}
+.info{
+ width: 600px;
+ height: 300px;
+ padding: 10px;
+ border: 5px solid gray;
+ margin: 0; 
+}
+#bg{
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+ min-width: 100%;
+            min-height: 100%;
+}
+.loginform {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:14px;
+            background-color: #DCDCDC;
+
+            width:300px; 
+            border: solid 1px #333333;
+            position: relative;
+            left:500px;
+            top: 100px;
+          }
+        
+
+          .login_form1{
+            background-color:#333333;
+             color:#FFFFFF;
+            padding:3px;
+          }
+         label {
+            font-weight:bold;
+            width:100px;
+            font-size:14px;
+         }
+         .from2{
+          margin:30px
+         }
+         .box {
+            border:#666666 solid 1px;
+         }
+         #button1{
+          background-color: #4CAF50;
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          cursor: pointer;
+         
+
+          }
+         #mess4{
+          font-size: 20px;
+         }
+#back{
+  background-color: #7FFFD4;
+}
+#mess3{
+  font-size: 20px;
+}
+.des{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+div.activity {
+  margin: 80px;
+  border: 1px solid black;
+  border-radius: 10px;
+  float: left;
+  width: 180px;
+  padding: 50px;
+}
+
+div.activity:hover {
+  border: 1px solid #777;
+}
+
+div.row1 {
+  padding: 15px;
+  text-align: center;
+}
+.goal{
+  margin-left: 50px;
+  margin-right: 70px;
+}
+.images{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.box1{
+  background-color: #7FFFD4;
+  width: 1000px;
+  border: 10px solid orange;
+  padding: 50px;
+  margin: 20px;
+  font-size: 20px;
+}
+footer {
+  background-color: #1BF5EF;
+  padding: 10px;
+  text-align: center;
+  color: black;
+  bottom: 0;
+  position: relative;
+  top:500px;
+}
+.mess5{
+  float:right;
+  margin-right: 90px;
+  font-size: 20px;
+}
+.mess6{
+  position: relative;
+  top:100px;
+}
+#mess7{
+  font-size: 50px;
+  position: relative;
+  left:10px;
+}
+#mess8{
+  position: relative;
+  top:80px;
+}
+#mess23{
+  position: relative;
+  top:10px;
+  left:100px;
+}
+#mess9{
+  position: absolute;
+  top:160;
+  left:350px;
+  font-size: 20px;
+
+}
+#mess10{
+  position: relative;
+  top:80px;
+  left:700px;
+}
+#mess11{
+  position: relative;
+  top:400px;
+}
+#mess12{
+  font-size: 50px;
+}
+#mess22{
+  
+}
